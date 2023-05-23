@@ -4,7 +4,7 @@ import smtplib
 #Alert me for the rain
 MY_LONG = -79.644119
 MY_LAT = 43.589046
-API_KEY = "c23c6da4b179a82c5f546d85cb259a24"
+API_KEY = "yourapi key"
 OPEN_ENDPOINT= 'https://api.openweathermap.org/data/3.0/onecall'
 MY_EMAIL = "email@gmail.com"
 password="dwadawca"
